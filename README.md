@@ -1,5 +1,7 @@
 <img height="30" width="30" src="http://www.vresatm.gr/assets/images/appicon.png" alt="Find ATM Logo"> Find ATM
 ===============
+[![Build Status](https://travis-ci.org/dimmdesign/FindATM.svg)](https://travis-ci.org/dimmdesign/FindATM)
+
 Discover the nearest ATMs, find which banks you are interested in and get live information of their ATM status. 
 20€, 50€ or more?
 
