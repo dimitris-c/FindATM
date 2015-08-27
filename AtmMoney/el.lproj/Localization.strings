@@ -1,0 +1,50 @@
+/* 
+  Localization.strings
+  AtmMoney
+
+  Created by Dimitris C. on 7/5/15.
+  Copyright (c) 2015 Find ATM. All rights reserved.
+*/
+
+"mainviewcontroller.title" = "Κοντινότερα ATMs";
+"mapviewcontroller.title"           = "Κοντινότερα ATMs - Χάρτης";
+
+"mainviewcontroller.map"          = "Χάρτης";
+
+"atmdetailviewcontroller.title"     = "Στοιχεία ATM";
+
+
+"bank.alphabank"        = "Alpha Bank";
+"bank.piraeusbank"      = "Τράπεζα Πειραιώς";
+"bank.eurobank"         = "Eurobank";
+"bank.atticabank"       = "Attica Bank";
+"bank.hsbc"             = "HSBC";
+"bank.nationalbank"     = "Εθνική Τράπεζα";
+"bank.postbank"         = "ΤΤ Eurobank";
+
+"%ld visitors.count"    = "%1$ld επισκέπτες";
+
+"bankstate.money"           = "Χρήματα";
+"bankstate.moneytwenties"   = "Χρήματα, δίνει 20€";
+"bankstate.nomoney"         = "Άδειο";
+
+"bankstate.money.readable"           = "Έχει χρήματα";
+"bankstate.moneytwenties.readable"   = "Έχει χρήματα, δίνει και 20€";
+"bankstate.nomoney.readable"         = "Άδειο";
+
+"detail.view.hasmoney"      = "Έχει χρήματα αυτό το ATM?";
+"detail.view.hastwenties"   = "Έχει 20€?";
+
+"detail.view.latestactivity" = "Τελευταίες Αναφορές";
+
+"detail.directions" = "Οδηγίες";
+
+"submit.response.title" = "Η πληροφορία σας καταχωρήθηκε.\nΕυχαριστούμε!";
+
+"network.failure.title" = "Network Failure";
+"network.failure.noentries.title"   = "Δεν βρέθηκαν κοντινά ATMs.\nΠροσπαθήστε να αλλάξετε την απόσταση.";
+
+"filterview.noselection.errortitle" = "Παρακαλώ επιλέξτε μία ή περισσότερες τραπεζες.";
+
+"filterview.sections.title.selectbanks" = "Επιλογή Τραπέζων";
+"filterview.sections.title.distance" = "Επιλογή Απόστασης";

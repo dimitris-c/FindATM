@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  AtmMoney
+
+  Created by Dimitris C. on 7/7/15.
+  Copyright (c) 2015 Find ATM. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "Βρες ATM";
+"CFBundleName" = "Βρες ATM";
