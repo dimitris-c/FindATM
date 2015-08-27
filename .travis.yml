@@ -1,2 +1,3 @@
 language: objective-c
 xcode_project: ATMMoney.xcodeproj
+osx_image: xcode6.4
