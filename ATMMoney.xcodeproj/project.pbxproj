@@ -11,32 +11,13 @@
 		08BA57821B475DB500C8EC19 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08BA57811B475DB500C8EC19 /* UIKit.framework */; };
 		08BA57841B475DBB00C8EC19 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08BA57831B475DBB00C8EC19 /* CoreFoundation.framework */; };
 		08BA57861B475DC100C8EC19 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08BA57851B475DC100C8EC19 /* SystemConfiguration.framework */; };
-		08BA579B1B475E0900C8EC19 /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA57891B475E0900C8EC19 /* AFHTTPRequestOperation.m */; };
-		08BA579C1B475E0900C8EC19 /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA578B1B475E0900C8EC19 /* AFHTTPRequestOperationManager.m */; };
-		08BA579D1B475E0900C8EC19 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA578D1B475E0900C8EC19 /* AFHTTPSessionManager.m */; };
-		08BA579E1B475E0900C8EC19 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA57901B475E0900C8EC19 /* AFNetworkReachabilityManager.m */; };
-		08BA579F1B475E0900C8EC19 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA57921B475E0900C8EC19 /* AFSecurityPolicy.m */; };
-		08BA57A01B475E0900C8EC19 /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA57941B475E0900C8EC19 /* AFURLConnectionOperation.m */; };
-		08BA57A11B475E0900C8EC19 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA57961B475E0900C8EC19 /* AFURLRequestSerialization.m */; };
-		08BA57A21B475E0900C8EC19 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA57981B475E0900C8EC19 /* AFURLResponseSerialization.m */; };
-		08BA57A31B475E0900C8EC19 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 08BA579A1B475E0900C8EC19 /* AFURLSessionManager.m */; };
 		08D2CDFC1B49475900E2A2E3 /* BankHistory.m in Sources */ = {isa = PBXBuildFile; fileRef = 08D2CDFB1B49475900E2A2E3 /* BankHistory.m */; };
-		6F163E901B4AE855002AE691 /* DateTools.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6F163E811B4AE855002AE691 /* DateTools.bundle */; };
-		6F163E911B4AE855002AE691 /* DTError.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F163E851B4AE855002AE691 /* DTError.m */; };
-		6F163E921B4AE855002AE691 /* DTTimePeriod.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F163E871B4AE855002AE691 /* DTTimePeriod.m */; };
-		6F163E931B4AE855002AE691 /* DTTimePeriodChain.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F163E891B4AE855002AE691 /* DTTimePeriodChain.m */; };
-		6F163E941B4AE855002AE691 /* DTTimePeriodCollection.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F163E8B1B4AE855002AE691 /* DTTimePeriodCollection.m */; };
-		6F163E951B4AE855002AE691 /* DTTimePeriodGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F163E8D1B4AE855002AE691 /* DTTimePeriodGroup.m */; };
-		6F163E961B4AE855002AE691 /* NSDate+DateTools.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F163E8F1B4AE855002AE691 /* NSDate+DateTools.m */; };
 		6F2258A61B48813C00D1E3F1 /* SubmitBank.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F2258A51B48813C00D1E3F1 /* SubmitBank.m */; };
 		6F2258B51B4885EB00D1E3F1 /* Localization.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6F2258B21B4885EB00D1E3F1 /* Localization.strings */; };
 		6F2258B81B4888B100D1E3F1 /* Localization.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6F2258B61B4888B100D1E3F1 /* Localization.strings */; };
 		6F39DD221B4C51B5007B5D4C /* Fabric.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F39DD201B4C51B5007B5D4C /* Fabric.framework */; };
 		6F39DD231B4C51B5007B5D4C /* Crashlytics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F39DD211B4C51B5007B5D4C /* Crashlytics.framework */; };
 		6F39DD541B4C94DA007B5D4C /* ATMUserSettings.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F39DD531B4C94DA007B5D4C /* ATMUserSettings.m */; };
-		6F45995C1B49DDDE00561005 /* SVIndefiniteAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4599571B49DDDE00561005 /* SVIndefiniteAnimatedView.m */; };
-		6F45995D1B49DDDE00561005 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6F4599591B49DDDE00561005 /* SVProgressHUD.bundle */; };
-		6F45995E1B49DDDE00561005 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F45995B1B49DDDE00561005 /* SVProgressHUD.m */; };
 		6F4599671B49E2EB00561005 /* Toolkit.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4599661B49E2EB00561005 /* Toolkit.m */; };
 		6F4730E51B47CE1100E99508 /* NetworkEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4730E41B47CE1100E99508 /* NetworkEngine.m */; };
 		6F4730E81B47D02A00E99508 /* GetNearestBanks.m in Sources */ = {isa = PBXBuildFile; fileRef = 6F4730E71B47D02A00E99508 /* GetNearestBanks.m */; };
@@ -44,6 +25,7 @@
 		6FB3B2971B4B40F300F38C1A /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6FB3B2951B4B40D900F38C1A /* Info.plist */; };
 		6FB3B29A1B4B413700F38C1A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6FB3B2981B4B413700F38C1A /* InfoPlist.strings */; };
 		6FB3B29D1B4B415300F38C1A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6FB3B29B1B4B415300F38C1A /* InfoPlist.strings */; };
+		A74E6005D4ECE376D0B5B963 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FA333BBA35162A2739383BBF /* libPods.a */; };
 		F69F6A5F1B4718A100FE29B9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F69F6A5E1B4718A100FE29B9 /* main.m */; };
 		F69F6A621B4718A100FE29B9 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F69F6A611B4718A100FE29B9 /* AppDelegate.m */; };
 		F69F6A681B4718A100FE29B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F69F6A661B4718A100FE29B9 /* Main.storyboard */; };
@@ -62,47 +44,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0017148FC20775912D38780A /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		08BA577E1B475B3300C8EC19 /* Bank.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Bank.h; sourceTree = "<group>"; };
 		08BA577F1B475B3300C8EC19 /* Bank.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Bank.m; sourceTree = "<group>"; };
 		08BA57811B475DB500C8EC19 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		08BA57831B475DBB00C8EC19 /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
 		08BA57851B475DC100C8EC19 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
-		08BA57881B475E0900C8EC19 /* AFHTTPRequestOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperation.h; sourceTree = "<group>"; };
-		08BA57891B475E0900C8EC19 /* AFHTTPRequestOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPRequestOperation.m; sourceTree = "<group>"; };
-		08BA578A1B475E0900C8EC19 /* AFHTTPRequestOperationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPRequestOperationManager.h; sourceTree = "<group>"; };
-		08BA578B1B475E0900C8EC19 /* AFHTTPRequestOperationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPRequestOperationManager.m; sourceTree = "<group>"; };
-		08BA578C1B475E0900C8EC19 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
-		08BA578D1B475E0900C8EC19 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
-		08BA578E1B475E0900C8EC19 /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
-		08BA578F1B475E0900C8EC19 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
-		08BA57901B475E0900C8EC19 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
-		08BA57911B475E0900C8EC19 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSecurityPolicy.h; sourceTree = "<group>"; };
-		08BA57921B475E0900C8EC19 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSecurityPolicy.m; sourceTree = "<group>"; };
-		08BA57931B475E0900C8EC19 /* AFURLConnectionOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLConnectionOperation.h; sourceTree = "<group>"; };
-		08BA57941B475E0900C8EC19 /* AFURLConnectionOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLConnectionOperation.m; sourceTree = "<group>"; };
-		08BA57951B475E0900C8EC19 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLRequestSerialization.h; sourceTree = "<group>"; };
-		08BA57961B475E0900C8EC19 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLRequestSerialization.m; sourceTree = "<group>"; };
-		08BA57971B475E0900C8EC19 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLResponseSerialization.h; sourceTree = "<group>"; };
-		08BA57981B475E0900C8EC19 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
-		08BA57991B475E0900C8EC19 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
-		08BA579A1B475E0900C8EC19 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
 		08D2CDFA1B49475900E2A2E3 /* BankHistory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BankHistory.h; sourceTree = "<group>"; };
 		08D2CDFB1B49475900E2A2E3 /* BankHistory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BankHistory.m; sourceTree = "<group>"; };
-		6F163E811B4AE855002AE691 /* DateTools.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = DateTools.bundle; sourceTree = "<group>"; };
-		6F163E821B4AE855002AE691 /* DateTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DateTools.h; sourceTree = "<group>"; };
-		6F163E831B4AE855002AE691 /* DTConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTConstants.h; sourceTree = "<group>"; };
-		6F163E841B4AE855002AE691 /* DTError.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTError.h; sourceTree = "<group>"; };
-		6F163E851B4AE855002AE691 /* DTError.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DTError.m; sourceTree = "<group>"; };
-		6F163E861B4AE855002AE691 /* DTTimePeriod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTTimePeriod.h; sourceTree = "<group>"; };
-		6F163E871B4AE855002AE691 /* DTTimePeriod.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DTTimePeriod.m; sourceTree = "<group>"; };
-		6F163E881B4AE855002AE691 /* DTTimePeriodChain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTTimePeriodChain.h; sourceTree = "<group>"; };
-		6F163E891B4AE855002AE691 /* DTTimePeriodChain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DTTimePeriodChain.m; sourceTree = "<group>"; };
-		6F163E8A1B4AE855002AE691 /* DTTimePeriodCollection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTTimePeriodCollection.h; sourceTree = "<group>"; };
-		6F163E8B1B4AE855002AE691 /* DTTimePeriodCollection.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DTTimePeriodCollection.m; sourceTree = "<group>"; };
-		6F163E8C1B4AE855002AE691 /* DTTimePeriodGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTTimePeriodGroup.h; sourceTree = "<group>"; };
-		6F163E8D1B4AE855002AE691 /* DTTimePeriodGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DTTimePeriodGroup.m; sourceTree = "<group>"; };
-		6F163E8E1B4AE855002AE691 /* NSDate+DateTools.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+DateTools.h"; sourceTree = "<group>"; };
-		6F163E8F1B4AE855002AE691 /* NSDate+DateTools.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+DateTools.m"; sourceTree = "<group>"; };
 		6F2258A41B48813C00D1E3F1 /* SubmitBank.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SubmitBank.h; sourceTree = "<group>"; };
 		6F2258A51B48813C00D1E3F1 /* SubmitBank.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SubmitBank.m; sourceTree = "<group>"; };
 		6F2258B31B4885EB00D1E3F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = Localization.strings; sourceTree = "<group>"; };
@@ -112,12 +61,6 @@
 		6F39DD211B4C51B5007B5D4C /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Crashlytics.framework; sourceTree = "<group>"; };
 		6F39DD521B4C94DA007B5D4C /* ATMUserSettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ATMUserSettings.h; sourceTree = "<group>"; };
 		6F39DD531B4C94DA007B5D4C /* ATMUserSettings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ATMUserSettings.m; sourceTree = "<group>"; };
-		6F4599561B49DDDE00561005 /* SVIndefiniteAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVIndefiniteAnimatedView.h; sourceTree = "<group>"; };
-		6F4599571B49DDDE00561005 /* SVIndefiniteAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVIndefiniteAnimatedView.m; sourceTree = "<group>"; };
-		6F4599581B49DDDE00561005 /* SVProgressHUD-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD-Prefix.pch"; sourceTree = "<group>"; };
-		6F4599591B49DDDE00561005 /* SVProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SVProgressHUD.bundle; sourceTree = "<group>"; };
-		6F45995A1B49DDDE00561005 /* SVProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVProgressHUD.h; sourceTree = "<group>"; };
-		6F45995B1B49DDDE00561005 /* SVProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVProgressHUD.m; sourceTree = "<group>"; };
 		6F4599651B49E2EB00561005 /* Toolkit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Toolkit.h; sourceTree = "<group>"; };
 		6F4599661B49E2EB00561005 /* Toolkit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Toolkit.m; sourceTree = "<group>"; };
 		6F4730E31B47CE1100E99508 /* NetworkEngine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkEngine.h; sourceTree = "<group>"; };
@@ -129,6 +72,7 @@
 		6FB3B2961B4B40DC00F38C1A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = en.lproj/Info.plist; sourceTree = "<group>"; };
 		6FB3B2991B4B413700F38C1A /* el */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = el; path = InfoPlist.strings; sourceTree = "<group>"; };
 		6FB3B29C1B4B415300F38C1A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
+		87CEB0A74088D2B53E770164 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		F69F6A591B4718A100FE29B9 /* ATMMoney.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ATMMoney.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F69F6A5E1B4718A100FE29B9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F69F6A601B4718A100FE29B9 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -155,6 +99,7 @@
 		F81019DF1B4BDA1100DD5D4A /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
 		F81019E01B4BDA1100DD5D4A /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKLoginKit.framework; sourceTree = "<group>"; };
 		F81019E11B4BDA1100DD5D4A /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKShareKit.framework; sourceTree = "<group>"; };
+		FA333BBA35162A2739383BBF /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +116,7 @@
 				08BA57841B475DBB00C8EC19 /* CoreFoundation.framework in Frameworks */,
 				6F4730ED1B47D85C00E99508 /* MapKit.framework in Frameworks */,
 				08BA57821B475DB500C8EC19 /* UIKit.framework in Frameworks */,
+				A74E6005D4ECE376D0B5B963 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,52 +134,13 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		08BA57871B475E0900C8EC19 /* AFNetworking */ = {
+		31EC27DA34308331F627BE87 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				08BA57881B475E0900C8EC19 /* AFHTTPRequestOperation.h */,
-				08BA57891B475E0900C8EC19 /* AFHTTPRequestOperation.m */,
-				08BA578A1B475E0900C8EC19 /* AFHTTPRequestOperationManager.h */,
-				08BA578B1B475E0900C8EC19 /* AFHTTPRequestOperationManager.m */,
-				08BA578C1B475E0900C8EC19 /* AFHTTPSessionManager.h */,
-				08BA578D1B475E0900C8EC19 /* AFHTTPSessionManager.m */,
-				08BA578E1B475E0900C8EC19 /* AFNetworking.h */,
-				08BA578F1B475E0900C8EC19 /* AFNetworkReachabilityManager.h */,
-				08BA57901B475E0900C8EC19 /* AFNetworkReachabilityManager.m */,
-				08BA57911B475E0900C8EC19 /* AFSecurityPolicy.h */,
-				08BA57921B475E0900C8EC19 /* AFSecurityPolicy.m */,
-				08BA57931B475E0900C8EC19 /* AFURLConnectionOperation.h */,
-				08BA57941B475E0900C8EC19 /* AFURLConnectionOperation.m */,
-				08BA57951B475E0900C8EC19 /* AFURLRequestSerialization.h */,
-				08BA57961B475E0900C8EC19 /* AFURLRequestSerialization.m */,
-				08BA57971B475E0900C8EC19 /* AFURLResponseSerialization.h */,
-				08BA57981B475E0900C8EC19 /* AFURLResponseSerialization.m */,
-				08BA57991B475E0900C8EC19 /* AFURLSessionManager.h */,
-				08BA579A1B475E0900C8EC19 /* AFURLSessionManager.m */,
+				0017148FC20775912D38780A /* Pods.debug.xcconfig */,
+				87CEB0A74088D2B53E770164 /* Pods.release.xcconfig */,
 			);
-			path = AFNetworking;
-			sourceTree = "<group>";
-		};
-		6F163E801B4AE855002AE691 /* DateTools */ = {
-			isa = PBXGroup;
-			children = (
-				6F163E811B4AE855002AE691 /* DateTools.bundle */,
-				6F163E821B4AE855002AE691 /* DateTools.h */,
-				6F163E831B4AE855002AE691 /* DTConstants.h */,
-				6F163E841B4AE855002AE691 /* DTError.h */,
-				6F163E851B4AE855002AE691 /* DTError.m */,
-				6F163E861B4AE855002AE691 /* DTTimePeriod.h */,
-				6F163E871B4AE855002AE691 /* DTTimePeriod.m */,
-				6F163E881B4AE855002AE691 /* DTTimePeriodChain.h */,
-				6F163E891B4AE855002AE691 /* DTTimePeriodChain.m */,
-				6F163E8A1B4AE855002AE691 /* DTTimePeriodCollection.h */,
-				6F163E8B1B4AE855002AE691 /* DTTimePeriodCollection.m */,
-				6F163E8C1B4AE855002AE691 /* DTTimePeriodGroup.h */,
-				6F163E8D1B4AE855002AE691 /* DTTimePeriodGroup.m */,
-				6F163E8E1B4AE855002AE691 /* NSDate+DateTools.h */,
-				6F163E8F1B4AE855002AE691 /* NSDate+DateTools.m */,
-			);
-			path = DateTools;
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		6F2258A31B48717D00D1E3F1 /* Frameworks */ = {
@@ -243,6 +150,7 @@
 				08BA57851B475DC100C8EC19 /* SystemConfiguration.framework */,
 				08BA57831B475DBB00C8EC19 /* CoreFoundation.framework */,
 				08BA57811B475DB500C8EC19 /* UIKit.framework */,
+				FA333BBA35162A2739383BBF /* libPods.a */,
 			);
 			path = Frameworks;
 			sourceTree = "<group>";
@@ -263,28 +171,6 @@
 				6F2258B21B4885EB00D1E3F1 /* Localization.strings */,
 			);
 			path = en.lproj;
-			sourceTree = "<group>";
-		};
-		6F4599541B49DDDE00561005 /* Vendor */ = {
-			isa = PBXGroup;
-			children = (
-				6F163E801B4AE855002AE691 /* DateTools */,
-				6F4599551B49DDDE00561005 /* SVProgressHUD */,
-			);
-			path = Vendor;
-			sourceTree = "<group>";
-		};
-		6F4599551B49DDDE00561005 /* SVProgressHUD */ = {
-			isa = PBXGroup;
-			children = (
-				6F4599561B49DDDE00561005 /* SVIndefiniteAnimatedView.h */,
-				6F4599571B49DDDE00561005 /* SVIndefiniteAnimatedView.m */,
-				6F4599581B49DDDE00561005 /* SVProgressHUD-Prefix.pch */,
-				6F4599591B49DDDE00561005 /* SVProgressHUD.bundle */,
-				6F45995A1B49DDDE00561005 /* SVProgressHUD.h */,
-				6F45995B1B49DDDE00561005 /* SVProgressHUD.m */,
-			);
-			path = SVProgressHUD;
 			sourceTree = "<group>";
 		};
 		6F4599641B49E2EB00561005 /* Toolkit */ = {
@@ -327,6 +213,7 @@
 				6F2258A31B48717D00D1E3F1 /* Frameworks */,
 				F69F6A5B1B4718A100FE29B9 /* AtmMoney */,
 				F69F6A5A1B4718A100FE29B9 /* Products */,
+				31EC27DA34308331F627BE87 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -345,7 +232,6 @@
 				F69F6A611B4718A100FE29B9 /* AppDelegate.m */,
 				F809A41F1B4BFFAA00D4FF59 /* Dummy Locations */,
 				F81019DE1B4BDA1100DD5D4A /* FacebookSDK */,
-				08BA57871B475E0900C8EC19 /* AFNetworking */,
 				08BA577D1B475B2900C8EC19 /* Model */,
 				6F4730E21B47CD9E00E99508 /* Engine */,
 				6F4599641B49E2EB00561005 /* Toolkit */,
@@ -356,7 +242,6 @@
 				F69F6A661B4718A100FE29B9 /* Main.storyboard */,
 				F69F6A691B4718A100FE29B9 /* Images.xcassets */,
 				F69F6A5C1B4718A100FE29B9 /* Supporting Files */,
-				6F4599541B49DDDE00561005 /* Vendor */,
 				6F2258AE1B4885EA00D1E3F1 /* el.lproj */,
 				6F2258B11B4885EA00D1E3F1 /* en.lproj */,
 			);
@@ -459,10 +344,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F69F6A7C1B4718A100FE29B9 /* Build configuration list for PBXNativeTarget "ATMMoney" */;
 			buildPhases = (
+				9C9B0026E0C5A7F52A937CE7 /* Check Pods Manifest.lock */,
 				F69F6A551B4718A100FE29B9 /* Sources */,
 				F69F6A561B4718A100FE29B9 /* Frameworks */,
 				F69F6A571B4718A100FE29B9 /* Resources */,
 				6F39DD1F1B4C5187007B5D4C /* ShellScript */,
+				0B6418972F5BC77FA60B7C17 /* Embed Pods Frameworks */,
+				D4278AC69D3B2B3D91BACD56 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -484,7 +372,6 @@
 				TargetAttributes = {
 					F69F6A581B4718A100FE29B9 = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = 5Y92JCRVR7;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -523,10 +410,8 @@
 				F809A41A1B4BFF5600D4FF59 /* ATMDetailBankViewController.xib in Resources */,
 				F69F6A681B4718A100FE29B9 /* Main.storyboard in Resources */,
 				6FB3B29D1B4B415300F38C1A /* InfoPlist.strings in Resources */,
-				6F45995D1B49DDDE00561005 /* SVProgressHUD.bundle in Resources */,
 				6F2258B81B4888B100D1E3F1 /* Localization.strings in Resources */,
 				6F2258B51B4885EB00D1E3F1 /* Localization.strings in Resources */,
-				6F163E901B4AE855002AE691 /* DateTools.bundle in Resources */,
 				F69F6A6A1B4718A100FE29B9 /* Images.xcassets in Resources */,
 				6FB3B2971B4B40F300F38C1A /* Info.plist in Resources */,
 				6FB3B29A1B4B413700F38C1A /* InfoPlist.strings in Resources */,
@@ -536,6 +421,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		0B6418972F5BC77FA60B7C17 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		6F39DD1F1B4C5187007B5D4C /* ShellScript */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -549,6 +449,36 @@
 			shellPath = /bin/sh;
 			shellScript = "";
 		};
+		9C9B0026E0C5A7F52A937CE7 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D4278AC69D3B2B3D91BACD56 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -556,39 +486,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F163E951B4AE855002AE691 /* DTTimePeriodGroup.m in Sources */,
 				08D2CDFC1B49475900E2A2E3 /* BankHistory.m in Sources */,
 				F809A4101B4BFEF400D4FF59 /* ATMMainViewController.m in Sources */,
-				08BA57A01B475E0900C8EC19 /* AFURLConnectionOperation.m in Sources */,
 				6F39DD541B4C94DA007B5D4C /* ATMUserSettings.m in Sources */,
-				08BA579B1B475E0900C8EC19 /* AFHTTPRequestOperation.m in Sources */,
-				08BA579E1B475E0900C8EC19 /* AFNetworkReachabilityManager.m in Sources */,
-				6F163E911B4AE855002AE691 /* DTError.m in Sources */,
 				F809A4191B4BFF5600D4FF59 /* ATMDetailBankViewController.m in Sources */,
-				08BA57A31B475E0900C8EC19 /* AFURLSessionManager.m in Sources */,
-				08BA57A11B475E0900C8EC19 /* AFURLRequestSerialization.m in Sources */,
-				6F163E941B4AE855002AE691 /* DTTimePeriodCollection.m in Sources */,
 				08BA57801B475B3300C8EC19 /* Bank.m in Sources */,
-				6F45995C1B49DDDE00561005 /* SVIndefiniteAnimatedView.m in Sources */,
 				F809A4261B4C213A00D4FF59 /* ATMFilterView.m in Sources */,
-				6F45995E1B49DDDE00561005 /* SVProgressHUD.m in Sources */,
 				F809A41E1B4BFF7200D4FF59 /* MapViewController.m in Sources */,
-				08BA57A21B475E0900C8EC19 /* AFURLResponseSerialization.m in Sources */,
 				6F2258A61B48813C00D1E3F1 /* SubmitBank.m in Sources */,
-				08BA579C1B475E0900C8EC19 /* AFHTTPRequestOperationManager.m in Sources */,
-				08BA579F1B475E0900C8EC19 /* AFSecurityPolicy.m in Sources */,
 				F69F6A621B4718A100FE29B9 /* AppDelegate.m in Sources */,
 				6F4599671B49E2EB00561005 /* Toolkit.m in Sources */,
 				F69F6A5F1B4718A100FE29B9 /* main.m in Sources */,
 				6F4730E81B47D02A00E99508 /* GetNearestBanks.m in Sources */,
-				6F163E931B4AE855002AE691 /* DTTimePeriodChain.m in Sources */,
 				F809A4081B4BFEBA00D4FF59 /* LocationHandler.m in Sources */,
 				F809A4141B4BFF2900D4FF59 /* ATMPlainCustomButton.m in Sources */,
-				08BA579D1B475E0900C8EC19 /* AFHTTPSessionManager.m in Sources */,
 				6F4730E51B47CE1100E99508 /* NetworkEngine.m in Sources */,
-				6F163E961B4AE855002AE691 /* NSDate+DateTools.m in Sources */,
 				F809A40F1B4BFEF400D4FF59 /* ATMBankTableViewCell.m in Sources */,
-				6F163E921B4AE855002AE691 /* DTTimePeriod.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -730,6 +643,7 @@
 		};
 		F69F6A7D1B4718A100FE29B9 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0017148FC20775912D38780A /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -754,6 +668,7 @@
 		};
 		F69F6A7E1B4718A100FE29B9 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 87CEB0A74088D2B53E770164 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
